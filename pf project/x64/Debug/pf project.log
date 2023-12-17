@@ -1,0 +1,5 @@
+﻿  project.cpp
+C:\Users\HP\OneDrive\Desktop\Chess game semester 1 C++ - Copy\Final project\project.cpp(2982,7): warning C4101: 'x': unreferenced local variable
+C:\Users\HP\OneDrive\Desktop\Chess game semester 1 C++ - Copy\Final project\project.cpp(303): warning C4715: 'indexofcolumn': not all control paths return a value
+C:\Users\HP\OneDrive\Desktop\Chess game semester 1 C++ - Copy\Final project\project.cpp(320): warning C4715: 'indexofrow': not all control paths return a value
+  pf project.vcxproj -> C:\Users\HP\source\repos\pf project\x64\Debug\pf project.exe
